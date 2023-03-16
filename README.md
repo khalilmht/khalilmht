@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @khalilmht
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning langage c
+🌱 I’m currently learning langage java
+- 💞️ I’m looking to collaborate on 
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me 
 
