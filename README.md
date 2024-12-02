@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @khalilmht
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning langage c
-🌱 I’m currently learning langage java
-- 💞️ I’m looking to collaborate on 
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me 
+Bonjour je suis Mahamat Khalil Yacoub ,Developpeur web et mobile , Developpeur des applications Desktops , Etudiant en Master cybersécurité.
 
-<!---
-khalilmht/khalilmht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Bienvenue sur mon compte github ! Je suis un développeur web passionné, spécialisé dans la création d'applications desktop et mobiles. Actuellement étudiant en master de cybersécurité, je combine mes compétences en développement avec une compréhension approuvée Mon parcours m'a permis de travailler sur divers projets, allant de sites web dynamiques à des applications innovantes, toujours en veillant à intégrer les meilleures pratiques de sécurité Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans ce domaine en constante évolution. N'hésitez pas à me contacter.
