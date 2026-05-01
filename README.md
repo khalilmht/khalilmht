@@ -44,8 +44,8 @@ Mon objectif est de créer des applications utiles, innovantes et adaptées aux 
 
 ## 📫 Contact
 
-📧 Email : (ajoute ton email ici)  
-🔗 LinkedIn : (ajoute ton lien)  
+📧 Email : khalilmht4@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/mahamat-khalil-yacoub-1263a0239/ 
 💻 GitHub : https://github.com/khalilmht  
 
 ---
