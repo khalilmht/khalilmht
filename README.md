@@ -1,3 +1,53 @@
-Bonjour je suis Mahamat Khalil Yacoub ,Developpeur web et mobile , Developpeur des applications Desktops , Etudiant en Master cybersécurité.
+# 👋 Bonjour, je suis Mahamat Khalil Yacoub
 
-Bienvenue sur mon compte github ! Je suis un développeur web passionné, spécialisé dans la création d'applications desktop et mobiles. Actuellement étudiant en master de cybersécurité, je combine mes compétences en développement avec une compréhension approuvée Mon parcours m'a permis de travailler sur divers projets, allant de sites web dynamiques à des applications innovantes, toujours en veillant à intégrer les meilleures pratiques de sécurité Je suis constamment à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans ce domaine en constante évolution. N'hésitez pas à me contacter.
+🎓 Étudiant en Master Cybersécurité  
+💻 Développeur Web, Mobile & Desktop  
+🌍 Basé au Tchad  
+
+---
+
+## 🧑‍💻 À propos de moi
+
+Passionné par le développement logiciel, je conçois des applications web, mobiles et desktop performantes et sécurisées.
+
+Actuellement en Master de cybersécurité, j’intègre les bonnes pratiques de sécurité dans chacun de mes projets afin de construire des solutions fiables et robustes.
+
+Mon objectif est de créer des applications utiles, innovantes et adaptées aux réalités africaines, notamment au Tchad.
+
+---
+
+## 🛠️ Compétences
+
+- 🌐 Développement Web (Frontend & Backend)
+- 📱 Développement Mobile (Flutter)
+- 🖥️ Applications Desktop (Java, JavaFX)
+- 🗄️ Bases de données (Oracle, MySQL, MariaDB)
+- 🔐 Cybersécurité & bonnes pratiques
+
+---
+
+## 🚀 Projets
+
+🔹 Digital Banking System  
+🔹 Gestion des patients (Java / Angular)  
+🔹 Projets académiques en cybersécurité  
+
+---
+
+## 📈 Objectifs
+
+- Devenir expert en cybersécurité  
+- Contribuer à des projets open source  
+- Développer des solutions technologiques pour l’Afrique  
+
+---
+
+## 📫 Contact
+
+📧 Email : (ajoute ton email ici)  
+🔗 LinkedIn : (ajoute ton lien)  
+💻 GitHub : https://github.com/khalilmht  
+
+---
+
+⭐ N’hésite pas à explorer mes projets et à collaborer avec moi !
